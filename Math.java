@@ -1,1 +1,4 @@
-Teste
+public class Math {
+
+	//TODO
+}
